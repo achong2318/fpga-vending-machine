@@ -1,0 +1,14 @@
+
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.str
+*.tmp
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.xpr
